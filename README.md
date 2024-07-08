@@ -42,5 +42,4 @@ Verify that the home_sales temporary table is uncached using PySpark.
 Download your Home_Sales.ipynb file and upload it into your "Home_Sales" GitHub repository.
 
 
-
-Please note, to complete this assignment I used in class and external resources including, but not limited to ChatGPT, Bard/Google, websites (stackoverflow, Microsoft Learn, etc), ASU/Bootcamp tutors, ASKBCS, external tutors, and AI powered assistance. 
+Please note, to complete this assignment I used in class and external resources including, but not limited to ChatGPT, Bard/Google, websites (stackoverflow, Google Colab), ASU/Bootcamp tutors, ASKBCS,  and AI powered assistance. 
