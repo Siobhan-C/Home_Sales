@@ -5,7 +5,7 @@ Please see the following submission: https://github.com/Siobhan-C/Home_Sales/
 Specifically, see Home_Sales - backup - Final.ipynb. (This was the most complete version I could generate).
 
 Please note, there are errors within this code that I could not fix. 
-I uninstalled and downloaded programs, restarted my computer multiple times, closed kernals, restarted kernals, dowloaded the materiak at least a half-dozen times, had multiple people attempt to help me, including a 2hour ticket at AskBCS, attempted to use Google Colab (didn't work) and other methods to trouble shoot (also to no avail) -- we could not figure out the issue.  I've attached screen shots as examples. It seemed as if the more I worked on it, the worst it became.
+I uninstalled and downloaded programs, restarted my computer multiple times, closed kernals, restarted kernals, dowloaded the material at least a half-dozen times, had multiple people attempt to help me, including a 2hour ticket at AskBCS, attempted to use Google Colab (didn't work) and other methods to trouble shoot (also to no avail) -- we could not figure out the issue.  I've attached screen shots as examples. It seemed as if the more I worked on it, the worst it became.
 
 Noted there are missing or imperfect components, I am hoping you can evaluate the core work that was done. I understand this may affect the grade, but I'd be grateful if you wouldn't mark it as missing. I'm working diligently to complete all my assignments and will resubmit this one if possible. My priority is passing the course, and I appreciate your understanding and help.
 
